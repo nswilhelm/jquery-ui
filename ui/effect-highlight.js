@@ -12,6 +12,7 @@
 //>>description: Highlights the background of an element in a defined color for a custom duration.
 //>>docs: http://api.jqueryui.com/highlight-effect/
 //>>demos: http://jqueryui.com/effect/
+//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {

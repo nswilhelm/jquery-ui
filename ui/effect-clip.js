@@ -12,6 +12,7 @@
 //>>description: Clips the element on and off like an old TV.
 //>>docs: http://api.jqueryui.com/clip-effect/
 //>>demos: http://jqueryui.com/effect/
+//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {

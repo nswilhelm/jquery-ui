@@ -12,6 +12,7 @@
 //>>description: Explodes an element in all directions into n pieces. Implodes an element to its original wholeness.
 //>>docs: http://api.jqueryui.com/explode-effect/
 //>>demos: http://jqueryui.com/effect/
+//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
