@@ -12,7 +12,6 @@
 //>>description: Resize an element to a specified width and height.
 //>>docs: http://api.jqueryui.com/size-effect/
 //>>demos: http://jqueryui.com/effect/
-//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {

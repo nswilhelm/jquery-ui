@@ -12,7 +12,6 @@
 //>>description: Grows or shrinks an element and its content. Restores an element to its original size.
 //>>docs: http://api.jqueryui.com/scale-effect/
 //>>demos: http://jqueryui.com/effect/
-//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {

@@ -12,7 +12,6 @@
 //>>description: Creates a puff effect by scaling the element up and hiding it at the same time.
 //>>docs: http://api.jqueryui.com/puff-effect/
 //>>demos: http://jqueryui.com/effect/
-//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {

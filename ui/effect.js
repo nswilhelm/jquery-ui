@@ -12,7 +12,6 @@
 //>>description: Extends the internal jQuery effects. Includes morphing and easing. Required by all other effects.
 //>>docs: http://api.jqueryui.com/category/effects-core/
 //>>demos: http://jqueryui.com/effect/
-//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
