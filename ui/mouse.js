@@ -11,7 +11,6 @@
 //>>group: UI Core
 //>>description: Abstracts mouse-based interactions to assist in creating certain widgets.
 //>>docs: http://api.jqueryui.com/mouse/
-//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {

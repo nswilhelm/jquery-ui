@@ -14,7 +14,6 @@
 //>>description: Positions elements relative to other elements.
 //>>docs: http://api.jqueryui.com/position/
 //>>demos: http://jqueryui.com/position/
-//>>css.theme: ../themes/base/theme.css
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
