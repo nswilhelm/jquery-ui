@@ -13,7 +13,6 @@
 //>>description: The core of jQuery UI, required for all interactions and widgets.
 //>>docs: http://api.jqueryui.com/category/ui-core/
 //>>demos: http://jqueryui.com/
-//>>css.structure: ../themes/base/base.css
 //>>css.structure: ../themes/base/core.css
 //>>css.theme: ../themes/base/theme.css
 
