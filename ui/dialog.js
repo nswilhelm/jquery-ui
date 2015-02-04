@@ -12,6 +12,7 @@
 //>>description: Displays customizable dialog windows.
 //>>docs: http://api.jqueryui.com/dialog/
 //>>demos: http://jqueryui.com/dialog/
+//>>css.structure: ../themes/base/core.css
 //>>css.structure: ../themes/base/dialog.css
 //>>css.theme: ../themes/base/theme.css
 

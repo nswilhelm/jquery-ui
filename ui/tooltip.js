@@ -12,6 +12,7 @@
 //>>description: Shows additional information for any element on hover or focus.
 //>>docs: http://api.jqueryui.com/tooltip/
 //>>demos: http://jqueryui.com/tooltip/
+//>>css.structure: ../themes/base/core.css
 //>>css.structure: ../themes/base/tooltip.css
 //>>css.theme: ../themes/base/theme.css
 

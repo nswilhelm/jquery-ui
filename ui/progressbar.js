@@ -12,6 +12,7 @@
 //>>description: Displays a status indicator for loading state, standard percentage, and other progress indicators.
 //>>docs: http://api.jqueryui.com/progressbar/
 //>>demos: http://jqueryui.com/progressbar/
+//>>css.structure: ../themes/base/core.css
 //>>css.structure: ../themes/base/progressbar.css
 //>>css.theme: ../themes/base/theme.css
 
